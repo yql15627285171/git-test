@@ -9,8 +9,11 @@ console.log("总成绩: " + sum);
 var sites = {
     site1: "Runoob",
     site2: "Google",
-    sayHello: function () { } // 类型模板
+    sayHello: function () {} // 类型模板
 };
-sites.sayHello = function () { return "hello"; };
+sites.sayHello = function () {
+    return "hello";
+};
 console.log(sites.sayHello());
 console.log("dha")
+console.log("你好s")
