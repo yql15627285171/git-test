@@ -13,7 +13,5 @@ var sites = {
 };
 sites.sayHello = function () {
     return "hello";
-};
-console.log(sites.sayHello());
-console.log("dha")
-console.log("你好s")
+}
+console.log("hello")
